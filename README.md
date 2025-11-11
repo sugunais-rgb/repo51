@@ -2,4 +2,3 @@
 program5
 happyop
 sad
-welcome
