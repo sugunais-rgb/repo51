@@ -1,5 +1,5 @@
 # repo51
 program5
-happyj
+happy
 sad
 welcome
